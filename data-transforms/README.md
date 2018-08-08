@@ -66,4 +66,4 @@ We want to know:
 - Which student had the highest (average) score
 - Which grade had the students with the highest (average) score
 
-See [students.js](`students.js`).
+See [`students.js`](students.js).
